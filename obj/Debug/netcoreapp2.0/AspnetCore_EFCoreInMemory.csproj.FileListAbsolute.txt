@@ -1,0 +1,11 @@
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\bin\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.deps.json
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\bin\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.runtimeconfig.json
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\bin\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.runtimeconfig.dev.json
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\bin\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.dll
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\obj\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.csproj.CoreCompileInputs.cache
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\obj\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.AssemblyInfoInputs.cache
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\obj\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.AssemblyInfo.cs
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\bin\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.pdb
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\obj\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.dll
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\obj\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.pdb
+D:\ProjetosEstudo\AspnetCore_EFCoreInMemory\AspnetCore_EFCoreInMemory\obj\Debug\netcoreapp2.0\AspnetCore_EFCoreInMemory.csprojAssemblyReference.cache
